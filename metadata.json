@@ -1,0 +1,12 @@
+{
+  "name": "Trapdoor Elevator Logic Test v3.0",
+  "author": "Francesco Trani",
+  "description": "Puzzle logic game for AI / LLM",
+  "version": "3.0",
+  "max_floor": 50,
+  "trap_floors": [13, 29, 36, 47],
+  "prime_trap_floors": [41, 43, 47],
+  "buttons": ["A", "B", "C", "D", "E", "F", "G", "H"],
+  "requires_code_cards": true,
+  "license": "MIT"
+}
